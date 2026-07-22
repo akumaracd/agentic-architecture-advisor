@@ -1,1 +1,0 @@
-mkdir -p frontend/src/components backend/graph backend/agents backend/mcp_server backend/services docs outputs
